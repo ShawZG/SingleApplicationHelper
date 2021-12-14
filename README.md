@@ -108,5 +108,5 @@ This library is released under `The MIT License (MIT)`.
 
 ## Thanks
 
-Thanks to [SingleApplication] (https://github.com/itay-grudev/SingleApplication) of [itay-grudev](https://github.com/itay-grudev), I just simplify implementation with QLocalServer/QLocalSocket.
+Thanks to [SingleApplication](https://github.com/itay-grudev/SingleApplication) of [itay-grudev](https://github.com/itay-grudev), I just simplify implementation with QLocalServer/QLocalSocket.
 
